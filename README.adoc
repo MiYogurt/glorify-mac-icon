@@ -23,7 +23,7 @@ TIP: 在 Retina 屏幕下切换 Tab 会出现失真，只能自己找更高清�
 
 选择APP，然后显示包内容，找 Resources 文件夹，找到它原本的 icns 文件，替换掉（记得备份一下）。
 
-TIP： 系统软件在 `/System/Library/CoreServices` 目录下
+TIP: 系统软件在 `/System/Library/CoreServices` 目录下
 
 == 免费制作 ICNS 的工具
 
