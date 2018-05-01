@@ -15,13 +15,16 @@
 将图标拖拽到简介里的图标上面。
 
 
-TIP: 
-    假如没有权限，在开机的时候按 CMD+R 进入恢复模式,输入 `csrutil disable` 关闭系统完整性保护。
+TIP: 假如没有权限，在开机的时候按 CMD+R 进入恢复模式,输入 `csrutil disable` 关闭系统完整性保护。
 
-TIP:
-    在 Retina 屏幕下切换 Tab 会出现失真，只能自己找更高清的图片。
+TIP: 在 Retina 屏幕下切换 Tab 会出现失真，只能自己找更高清的图片。
 
+== 另外的一种方式
+
+选择APP，然后显示包内容，找 Resources 文件夹，找到它原本的 icns 文件，替换掉（记得备份一下）。
+
+TIP： 系统软件在 `/System/Library/CoreServices` 目录下
 
 == 免费制作 ICNS 的工具
 
-http://www.img2icnsapp.com/ 在制作 Electron 应用程序的时候经常会用到。
+到 http://www.img2icnsapp.com 下载，在制作 Electron 应用程序的时候经常会用到。
