@@ -1,0 +1,27 @@
+= 如何美化你的 MAC ？
+
+教你构建一个可爱的 MAC 桌面
+
+== 第一步
+
+到 http://www.easyicon.net/ 下载图标，mac 需要 icns 格式。
+
+== 第二步
+
+打开软件的简介
+
+== 第三步
+
+将图标拖拽到简介里的图标上面。
+
+
+TIP: 
+    假如没有权限，在开机的时候按 CMD+R 进入恢复模式,输入 `csrutil disable` 关闭系统完整性保护。
+
+TIP:
+    在 Retina 屏幕下切换 Tab 会出现失真，只能自己找更高清的图片。
+
+
+== 免费制作 ICNS 的工具
+
+http://www.img2icnsapp.com/ 在制作 Electron 应用程序的时候经常会用到。
