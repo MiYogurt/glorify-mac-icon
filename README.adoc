@@ -21,7 +21,7 @@ TIP: 在 Retina 屏幕下切换 Tab 会出现失真，只能自己找更高清�
 
 == 另外的一种方式
 
-选择APP，然后显示包内容，找 Resources 文件夹，找到它原本的 icns 文件，替换掉（记得备份一下）。
+选择APP，然后显示包内容，找 Resources 文件夹，找到它原本的 icns 或者 png 文件，替换掉 (记得备份一下)。
 
 TIP: Finder 和废纸篓在 `/System/Library/CoreServices/Dock/Contents/Resources` 目录下（需要 png 格式），替换完成之后，需要把缓存删除, 在 `/private/var/folders/`,里面搜索并且删除 `com.apple.dock.iconcache`
 
