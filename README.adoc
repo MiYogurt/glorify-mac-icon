@@ -1,6 +1,6 @@
 = 如何美化你的 MAC ？
 
-image:./screen.png[screen]
+image:./screen.png[screen,100%]
 
 教你构建一个可爱的 MAC 桌面
 
